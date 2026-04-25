@@ -16,7 +16,6 @@ repositories {
 dependencies {
     compileOnly("io.papermc.paper:paper-api:1.20.4-R0.1-SNAPSHOT")
     implementation("co.aikar:acf-paper:0.5.1-SNAPSHOT")
-    //implementation("net.wesjd:anvilgui:1.9.0")  // если нужен AnvilGUI
     implementation("com.github.stefvanschie.inventoryframework:IF:0.10.12")
 }
 
