@@ -181,9 +181,9 @@ GUI
 
 ## Скриншоты
 
-<img width="351" height="442" alt="image" src="https://github.com/user-attachments/assets/f2aa2eab-39a5-4623-a937-c3b22dcb47ab" />
-<img width="351" height="441" alt="image" src="https://github.com/user-attachments/assets/bd37c517-d1b7-41c5-b7fb-76d7ad3a4c55" />
-<img width="465" height="442" alt="image" src="https://github.com/user-attachments/assets/c1dd296c-2983-4df1-b75c-f6cb31ae9382" />
+<img width="1919" height="1047" alt="image" src="https://github.com/user-attachments/assets/c8fc6f3b-9058-4877-bb41-6c703b5acfa2" />
+<img width="349" height="440" alt="image" src="https://github.com/user-attachments/assets/c6394744-9b24-4427-aabf-e1d5e7cb39fe" />
+<img width="473" height="441" alt="image" src="https://github.com/user-attachments/assets/9284054f-ce47-4ec0-9acc-652b4d3597ef" />
 
 ---
 
