@@ -1,0 +1,6 @@
+name: Trade
+version: '$version'
+
+main: me.vesk.trade.Trade
+api-version: '1.20'
+load: POSTWORLD
