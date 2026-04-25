@@ -182,7 +182,7 @@ GUI
 ## Скриншоты
 
 <img width="1919" height="1047" alt="image" src="https://github.com/user-attachments/assets/c8fc6f3b-9058-4877-bb41-6c703b5acfa2" />
-<img width="349" height="440" alt="image" src="https://github.com/user-attachments/assets/c6394744-9b24-4427-aabf-e1d5e7cb39fe" />
+
 <img width="473" height="441" alt="image" src="https://github.com/user-attachments/assets/9284054f-ce47-4ec0-9acc-652b4d3597ef" />
 
 ---
